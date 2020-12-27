@@ -1,1 +1,6 @@
-@font-face { font-family: CharlieHandwriting; src: url(Charlie手寫體for toomuchstar.ttf); /* IE9 Compat Modes */ url(Charlie手寫體for toomuchstar.ttf) format("truetype") }
+@font-face {
+  font-family: 'CharlieHandwriting';
+  src: url('../CharlieHandwriting.woff') format("woff"),
+       url('../CharlieHandwriting .ttf') format("truetype"),
+       url('../CharlieHandwriting.eot') format("embedded-opentype");
+}
